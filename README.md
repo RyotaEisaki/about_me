@@ -10,4 +10,3 @@ University of Tsukuba
 
 ### 外部リンク
 + [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
-+ [Qiita](https://qiita.com/eisakiryota)
