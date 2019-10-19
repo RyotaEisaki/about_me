@@ -1,4 +1,12 @@
-###現在
+##現在 / Present
+
+**筑波大学情報学群情報科学類**  
+
+**ヒューマンンコンピュテーション研究室**
+
+**University of Tsukuba**   College of Information Science
+
+**Human Computation Laboratory**
 
 
 ## 2019.9.28~2019.9.29
