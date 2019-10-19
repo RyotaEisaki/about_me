@@ -9,10 +9,10 @@
 **Human Computation Laboratory**
 
 
-## 2019.9.28~2019.9.29
+### 2019.9.28~2019.9.29
 [J-WAVE INNOVATION WORLD FESTA 2019](https://www.j-wave.co.jp/iwf2019/?fbclid=IwAR1apCbJjiKNCRm5xPmuc-zPZZLYPZ9It9Y0YA7I_pH4CegLQHbI59xlEXc) 運営スタッフ
 
-## 2019.5~
+### 2019.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2019」に参加．[ヒューマンコンピュテーション研究室](http://hcomp.cs.tsukuba.ac.jp)にて共同研究．
 
 Participated in the "ARE(Advancing Researcher Experience) 2019 program" as a collabarate student at Human Computation Labratory.
