@@ -1,3 +1,8 @@
+## 2019.5~
+先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2019」に参加．[ヒューマンコンピュテーション研究室](http://hcomp.cs.tsukuba.ac.jp)にて共同研究．
+
+Participated in the ARE(Advancing Researcher Experience) 2019 program as a collabarate student at Human Computation Labratory.
+
 ## 2018.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
 
