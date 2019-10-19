@@ -9,7 +9,7 @@ University of Tsukuba
 情報科学類 College of Information Science
 
 ### スキル Skills
--> [Slills](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
+-> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ### 外部リンク Links
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
