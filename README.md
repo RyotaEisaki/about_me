@@ -13,13 +13,11 @@
 
 筑波大学情報学群情報科学類  
 
-University of Tsukuba, School of Informatics, College of Information Science
-
 ヒューマンンコンピュテーション研究室
 
+University of Tsukuba, School of Informatics, College of Information Science
+
 Human Computation Laboratory
-
-
 
 ### スキル Skills
 -> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
