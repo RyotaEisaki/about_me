@@ -1,10 +1,8 @@
-# 基本情報
-
 ## 氏名 Name
 
  永崎遼太  /  Ryota Eisaki
 
-### 経歴 Career
+## 経歴 Career
 
 -> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
@@ -19,10 +17,10 @@ University of Tsukuba, School of Informatics, College of Information Science
 
 Human Computation Laboratory
 
-### スキル Skills
+## スキル Skills
 -> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
-### 外部リンク Links
+## 外部リンク Links
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
 + [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
 + [note](https://note.mu/r_e)
