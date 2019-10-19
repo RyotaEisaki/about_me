@@ -1,7 +1,7 @@
 ## 2018.5~
-[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
+先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
 
-Collabarate Student at Digital Nature Group.
+Participated in the ARE(Advancing Researcher Experience) 2018 program as a collabarate student at Digital Nature Group.
 
 ## 2018.4 
 筑波大学情報学群情報科学類入学
