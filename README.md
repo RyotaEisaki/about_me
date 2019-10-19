@@ -8,7 +8,10 @@ University of Tsukuba
 情報学群 School of Informatics   
 情報科学類 College of Information Science
 
-### 外部リンク Link
+### スキル Skills
+-> [Slills](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
+
+### 外部リンク Links
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
 + [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
 + [note](https://note.mu/r_e)
