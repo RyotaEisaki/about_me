@@ -21,8 +21,8 @@
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2019」に参加．[ヒューマンコンピュテーション研究室](http://hcomp.cs.tsukuba.ac.jp)にて共同研究．
 
 Participated in the "ARE(Advancing Researcher Experience) 2019 program" as a collabarate student at Human Computation Labratory.
-　　
 
+　　
 ## 2019.3.3~2019.3.24
 ワシントン大学にて短期留学．
 
@@ -31,15 +31,19 @@ Study at the University of Washington.
 ## 2018.12.4~2018.12.7
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
 
+　　
 ## 2018.9.1
 [第4回 JST CREST xDiversity シンポジウム in 函館](https://xdiversity-symposium4.peatix.com/?fbclid=IwAR1RgL2xI9q4pDnB9mcXaqZihUBmBfo5JmntMLzaYifSzgg2NNu2Gtg5cAY) 運営スタッフ
 
+　　
 ## 2018.8.27
 [落合陽一×日本フィル プロジェクトVOL.2《変態する音楽会》](https://www.japanphil.or.jp/concert/23302) 運営スタッフ．
 
+　　
 ## 2018.7.31
 [落合陽一・小泉進次郎共同企画　第一回 平成最後の夏期講習(社会科編)](https://www.youtube.com/watch?v=fV37SGxMqZs&feature=youtu.be&fbclid=IwAR0O6CPjGnk0t5fFZ--iPoqPXFRrGn7oVd_1H9BuNzGlrwVim2mFxzl6LZQ) 運営スタッフ．
 
+　
 ## 2018.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
 
