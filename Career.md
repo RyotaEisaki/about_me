@@ -8,12 +8,9 @@
 
 ### **Human Computation Laboratory**
 
-
-
-
-
-
-
+　　
+  　　
+    
 # 経歴 / Experience
 
 ## 2019.9.28~2019.9.29
