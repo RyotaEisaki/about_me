@@ -12,7 +12,7 @@ University of Tsukuba, School of Informatics, Callege of Information Science
 
 [ 研究室  /  Laboratory ]
 
-[ヒューマンンコンピュテーション研究室](https://hcomp.cs.tsukuba.ac.jp)   Human Computation Laboratory
+[ヒューマンンコンピュテーション研究室](https://hcomp.cs.tsukuba.ac.jp)    Human Computation Laboratory
 
 -> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
