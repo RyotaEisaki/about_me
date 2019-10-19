@@ -7,6 +7,17 @@
 ### 経歴 Career
 -> [Career](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
+Present - 
+
+[筑波大学情報学群情報科学類](https://www.coins.tsukuba.ac.jp)
+
+University of Tsukuba, School of Informatics, Callege of Information Science
+
+
+[ヒューマンンコンピュテーション研究室](https://hcomp.cs.tsukuba.ac.jp)
+
+Human Computation Laboratory
+
 ### スキル Skills
 -> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
