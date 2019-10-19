@@ -5,13 +5,16 @@
  永崎遼太  /  Ryota Eisaki
 
 ### 経歴 Career
+
+-> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+
+
 現在  /  Present - 
 
 筑波大学  University of Tsukuba  /  情報学群  School of Informatics  /  情報科学類  Callege of Information Science
 
 ヒューマンンコンピュテーション研究室  /  Human Computation Laboratory
 
--> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ### スキル Skills
 -> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
