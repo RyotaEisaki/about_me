@@ -7,8 +7,11 @@
 * C
 * C++
 * Swift
-* R
 * Arduiono
+* Processing
+* R
+* MATLAB
+* Scilab
 
 # Text Editor
 * Visual Studio Code
@@ -28,6 +31,8 @@
 * GitHub Desktop
 
 # Others
+* Microsoft Office
 * LaTex
 * TensorFlow
 * kaggle 
+* openGL
