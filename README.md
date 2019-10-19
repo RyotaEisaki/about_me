@@ -4,9 +4,6 @@
 
 ## 経歴 Career
 
--> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
-
-
 現在  /  Present - 
 
 **筑波大学情報学群情報科学類**  
@@ -16,6 +13,10 @@
 **University of Tsukuba**   College of Information Science
 
 **Human Computation Laboratory**
+
+
+-> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+
 
 ## スキル Skills
 
