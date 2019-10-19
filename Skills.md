@@ -12,6 +12,8 @@
 * R
 * MATLAB
 * Scilab
+* Prolog
+* Verilog
 
 # Text Editor
 * Visual Studio Code
