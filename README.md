@@ -2,7 +2,7 @@
 
 ### 氏名 Name
 
-**永崎遼太  /  Ryota Eisaki
+**永崎遼太  /  Ryota Eisaki**
 
 ## 経歴 Career
 -> [Career](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
