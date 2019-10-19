@@ -2,7 +2,7 @@
 
 ### **永崎遼太  /  Ryota Eisaki**
 
-## 経歴 Career
++ ## 経歴 Career
 
 現在  /  Present - 
 
@@ -18,15 +18,15 @@
 -> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 
-## スキル Skills
++ ## スキル Skills
 
 Programming Langages, Software & Tools.
 
 -> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
-## 外部リンク Links
-+ [Facebook](https://www.facebook.com/ryotaeisaki)
-+ [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
++ ## 外部リンク Links
+++ [Facebook](https://www.facebook.com/ryotaeisaki)
+++ [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
 + [Instagram](https://www.instagram.com/___r_____e________/?hl=ja)
 + [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
 + [note](https://note.mu/r_e)
