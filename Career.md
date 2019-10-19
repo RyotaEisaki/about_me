@@ -15,7 +15,7 @@ Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer
 [落合陽一×日本フィル プロジェクトVOL.2《変態する音楽会》](https://www.japanphil.or.jp/concert/23302) 運営スタッフ．
 
 ## 2018.7.31
-「落合陽一・小泉進次郎共同企画　第一回 平成最後の夏期講習(社会科編)」 運営スタッフ．
+[落合陽一・小泉進次郎共同企画　第一回 平成最後の夏期講習(社会科編)](https://www.youtube.com/watch?v=fV37SGxMqZs&feature=youtu.be&fbclid=IwAR0O6CPjGnk0t5fFZ--iPoqPXFRrGn7oVd_1H9BuNzGlrwVim2mFxzl6LZQ) 運営スタッフ．
 
 ## 2018.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
