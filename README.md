@@ -22,7 +22,7 @@
 
 Programming Langages, Software & Tools.
 
--> [Skills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+-> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ## 外部リンク Links
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
