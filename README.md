@@ -1,6 +1,6 @@
 ## 氏名 Name
 
- 永崎遼太  /  Ryota Eisaki
+**永崎遼太  /  Ryota Eisaki**
 
 ## 経歴 Career
 
@@ -9,16 +9,20 @@
 
 現在  /  Present - 
 
-筑波大学情報学群情報科学類  
+**筑波大学情報学群情報科学類**  
 
-ヒューマンンコンピュテーション研究室
+**ヒューマンンコンピュテーション研究室**
 
-University of Tsukuba, School of Informatics, College of Information Science
+**University of Tsukuba**
+College of Information Science
 
-Human Computation Laboratory
+**Human Computation Laboratory**
 
 ## スキル Skills
--> [Slills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+
+Programming Langages, Software & Tools.
+
+-> [Skills](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ## 外部リンク Links
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
