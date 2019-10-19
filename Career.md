@@ -12,6 +12,7 @@
   　　
     
 # 経歴 / Experience
+# 2019
 
 ## 2019.9.28~2019.9.29
 [J-WAVE INNOVATION WORLD FESTA 2019](https://www.j-wave.co.jp/iwf2019/?fbclid=IwAR1apCbJjiKNCRm5xPmuc-zPZZLYPZ9It9Y0YA7I_pH4CegLQHbI59xlEXc) 運営スタッフ
@@ -24,6 +25,8 @@ Participated in the "ARE(Advancing Researcher Experience) 2019 program" as a col
 ワシントン大学にて短期留学．
 
 Study at the University of Washington.
+
+# 2018
 
 ## 2018.12.4~2018.12.7
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
