@@ -1,6 +1,6 @@
 # 基本情報
 
-### 氏名 Name
+## 氏名 Name
 
  永崎遼太  /  Ryota Eisaki
 
