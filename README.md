@@ -7,11 +7,7 @@
 ### 経歴 Career
 現在  /  Present - 
 
-筑波大学  University of Tsukuba
-
-情報学群  School of Informatics
-
-情報科学類  Callege of Information Science
+筑波大学  University of Tsukuba  /  情報学群  School of Informatics  /  情報科学類  Callege of Information Science
 
 
 
