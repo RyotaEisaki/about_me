@@ -4,7 +4,7 @@
 Participated in the ARE(Advancing Researcher Experience) 2019 program as a collabarate student at Human Computation Labratory.
 
 ## 2018.12.4~7
-The 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/))  Student Volunteer
+Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
 
 ## 2018.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
