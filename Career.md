@@ -1,5 +1,6 @@
 ## 2018.5~
-[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．　　
+[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
+
 Collabarate Student at Digital Nature Group.
 
 ## 2018.4 
