@@ -1,6 +1,8 @@
+# 基本情報
+
 ### 氏名 Name
-永崎遼太   
-Ryota Eisaki
+
+永崎遼太  /  Ryota Eisaki
 
 ### 所属 Affiliations
 筑波大学 
