@@ -11,6 +11,9 @@ Study at the University of Washington.
 ## 2018.12.4~7
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
 
+## 2018.9.1
+[第4回 JST CREST xDiversity シンポジウム in 函館](https://xdiversity-symposium4.peatix.com/?fbclid=IwAR1RgL2xI9q4pDnB9mcXaqZihUBmBfo5JmntMLzaYifSzgg2NNu2Gtg5cAY) 運営スタッフ
+
 ## 2018.8.27
 [落合陽一×日本フィル プロジェクトVOL.2《変態する音楽会》](https://www.japanphil.or.jp/concert/23302) 運営スタッフ．
 
