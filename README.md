@@ -13,7 +13,7 @@
 
 **ヒューマンンコンピュテーション研究室**
 
-**University of Tsukuba**, College of Information Science
+**University of Tsukuba**   College of Information Science
 
 **Human Computation Laboratory**
 
