@@ -11,9 +11,14 @@
 
 現在  /  Present - 
 
-筑波大学  University of Tsukuba  /  情報学群  School of Informatics  /  情報科学類  Callege of Information Science
+筑波大学情報学群情報科学類  
 
-ヒューマンンコンピュテーション研究室  /  Human Computation Laboratory
+University of Tsukuba, School of Informatics, College of Information Science
+
+ヒューマンンコンピュテーション研究室
+
+Human Computation Laboratory
+
 
 
 ### スキル Skills
