@@ -6,7 +6,7 @@ Participated in the ARE(Advancing Researcher Experience) 2019 program as a colla
 ## 2019.3.3~24
 ワシントン大学にて短期留学．
 
-Studying abroad at the University of Washington
+Stud at the University of Washington
 
 ## 2018.12.4~7
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
