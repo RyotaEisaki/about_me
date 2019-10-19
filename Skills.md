@@ -33,6 +33,8 @@
 * GitHub Desktop
 
 # Others
+* Ubuntu
+* Linux
 * Microsoft Office
 * LaTex
 * TensorFlow
