@@ -21,7 +21,7 @@
 * Atom
 * Emacs
 
-# Adobe Tools
+# Adobe Tool
 * Photoshop
 * Lightroom
 * Illustlator
