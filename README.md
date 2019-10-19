@@ -9,11 +9,7 @@
 
 筑波大学  University of Tsukuba  /  情報学群  School of Informatics  /  情報科学類  Callege of Information Science
 
-
-
-[ 研究室  /  Laboratory ]
-
-[ヒューマンンコンピュテーション研究室](https://hcomp.cs.tsukuba.ac.jp)    Human Computation Laboratory
+ヒューマンンコンピュテーション研究室  /  Human Computation Laboratory
 
 -> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
