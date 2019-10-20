@@ -20,7 +20,7 @@
 
 ## スキル Skills
 
-Programming Langages, Software & Tools.
+Programming Languages, Software & Tools.
 
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
