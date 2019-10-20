@@ -7,6 +7,7 @@
 * C
 * C++
 * Swift
+* Scala
 * Arduiono
 * Processing
 * R
