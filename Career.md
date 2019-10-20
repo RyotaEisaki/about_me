@@ -26,6 +26,8 @@ Participated in the "ARE(Advancing Researcher Experience) 2019 program" as a col
 Study at the University of Washington.
 
 ## 2018.12.4~2018.12.7
+国際学会「SIGGRAPH ASIA 2018」学生ボランティア
+
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
 
 ## 2018.9.1
