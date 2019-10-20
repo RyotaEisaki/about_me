@@ -15,12 +15,6 @@
 * Prolog
 * Verilog
 
-# Text Editor
-* Visual Studio Code
-* Visual Studio 2019
-* Atom
-* Emacs
-
 # Adobe Tool
 * Photoshop
 * Lightroom
@@ -31,6 +25,12 @@
 * GitHub
 * GitKaraken
 * GitHub Desktop
+
+# Text Editor
+* Visual Studio Code
+* Visual Studio 2019
+* Atom
+* Emacs
 
 # Others
 * Ubuntu
