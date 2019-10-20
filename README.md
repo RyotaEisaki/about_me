@@ -15,14 +15,14 @@
 **Human Computation Laboratory**
 
 
--> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+-> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 
 ## スキル Skills
 
 Programming Langages, Software & Tools.
 
--> [ 詳細  /  Details ](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+-> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ## 外部リンク Links
 + [Facebook](https://www.facebook.com/ryotaeisaki)
