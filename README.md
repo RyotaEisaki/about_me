@@ -4,7 +4,7 @@
 
 ## 経歴 Career
 
-現在  /  Present - 
+[現在  /  Present]
 
 **筑波大学情報学群情報科学類**  
 
