@@ -37,6 +37,7 @@
 * Ubuntu
 * Linux
 * Microsoft Office
+* Twitter API
 * LaTex
 * TensorFlow
 * kaggle 
