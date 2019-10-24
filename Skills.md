@@ -1,11 +1,13 @@
 # Language
+* Python
 * Java
 * JavaScript
-* Ruby
-* Ruby on Rails
-* Python
+* HTML
+* CSS
 * C
 * C++
+* Ruby
+* Ruby on Rails
 * Swift
 * Scala
 * Arduiono
@@ -16,6 +18,7 @@
 * Scilab
 * Prolog
 * Verilog
+
 
 # Adobe Tool
 * Photoshop
