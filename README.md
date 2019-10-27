@@ -18,15 +18,16 @@
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 ## 関心 Interest
-**機械学習，人工知能，ヒューマンコンピュテーション
+
+**機械学習，人工知能，ヒューマンコンピュテーション**
 
 Machine Learning, Artificial Intelligence, Human Computation
 
-**データアナリティクス，データマイニング，ビックデータ
+**データアナリティクス，データマイニング，ビックデータ**
 
 Data Analytics, Data Mining, Big Data
 
-**UI/UXデザイン，Webディベロップメント
+**UI/UXデザイン，Webディベロップメント**
 UI/UX Design, Web Development
 
 
