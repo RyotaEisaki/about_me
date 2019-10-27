@@ -1,9 +1,13 @@
 ## 氏名 Name
 
 ### **永崎遼太  /  Ryota Eisaki**
+<<<<<<< HEAD
 
 
 
+=======
+  
+>>>>>>> master
 ## 経歴 Career
 
 [現在  /  Present]
@@ -20,17 +24,17 @@
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 ## 関心 Interest
-機械学習，人工知能，ヒューマンコンピュテーション
+
+**機械学習，人工知能，ヒューマンコンピュテーション**
 
 Machine Learning, Artificial Intelligence, Human Computation
 
-データアナリティクス，データマイニング，ビックデータ
+**データアナリティクス，データマイニング，ビックデータ**
 
 Data Analytics, Data Mining, Big Data
 
-UI/UXデザイン
-
-UI/UX Design
+**UI/UXデザイン，Webディベロップメント**
+UI/UX Design, Web Development
 
 
 ## スキル Skills
