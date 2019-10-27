@@ -10,7 +10,7 @@
 * Ruby on Rails
 * Swift
 * Scala
-* Arduiono
+* Arduino
 * Processing
 * R
 * Ocaml
