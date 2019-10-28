@@ -18,7 +18,7 @@
 
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
-## 関心 Interest
+## 関心分野 Interest
 
 **機械学習，人工知能，ヒューマンコンピュテーション**
 
