@@ -20,7 +20,7 @@
 * Verilog
 
 
-# Adobe Tool
+# Adobe Applications
 * Photoshop
 * Lightroom
 * Illustlator
