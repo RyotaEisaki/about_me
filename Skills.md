@@ -26,16 +26,6 @@
 * Illustlator
 * Premire Pro
 
-# Git
-* GitHub
-* GitKaraken
-* GitHub Desktop
-
-# Text Editor
-* Visual Studio Code
-* Visual Studio 2019
-* Atom
-* Emacs
 
 # Others
 * Ubuntu
