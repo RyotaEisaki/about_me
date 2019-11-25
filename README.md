@@ -29,6 +29,7 @@ Machine Learning, Artificial Intelligence, Human Computation
 Data Analytics, Data Mining, Big Data
 
 **UI/UXデザイン，Webディベロップメント**
+
 UI/UX Design, Web Development
 
 
