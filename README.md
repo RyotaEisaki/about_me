@@ -35,7 +35,7 @@ UI/UX Design, Web Development
 
 ## スキル Skills
 
-Programming Languages, Software & Tools.
+Programming Languages etc.
 
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
