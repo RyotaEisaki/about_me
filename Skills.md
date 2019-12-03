@@ -1,4 +1,4 @@
-# Language
+# Programming Language
 * Python
 * Java
 * JavaScript
