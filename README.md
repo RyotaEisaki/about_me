@@ -44,4 +44,4 @@ Programming Languages etc.
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
 + [Instagram](https://www.instagram.com/___r_____e________/?hl=ja)
 + [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
-+ [note](https://note.mu/r_e)
+
