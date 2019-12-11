@@ -30,6 +30,9 @@ Study at the University of Washington(Winter STEP 2019, Language and Culture)
 
 Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia ([SIGGRAPH ASIA 2018](https://sa2018.siggraph.org/jp/)).
 
+## 2018.9.19~2018.9.21
+[第23回日本バーチャルリアリティ学会大会](http://conference.vrsj.org/ac2018/) 参加
+
 ## 2018.9.1
 [第4回 JST CREST xDiversity シンポジウム in 函館](https://xdiversity-symposium4.peatix.com/?fbclid=IwAR1RgL2xI9q4pDnB9mcXaqZihUBmBfo5JmntMLzaYifSzgg2NNu2Gtg5cAY) 運営スタッフ
 
