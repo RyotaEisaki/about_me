@@ -20,9 +20,9 @@
 
 ## 関心分野 Interest
 
-**機械学習，人工知能，ヒューマンコンピュテーション**
+**最適化・数理計画問題、将来予測/要因把握、ヒューマンコンピュテーション**
 
-Machine Learning, Artificial Intelligence, Human Computation
+Optimization, Forecasting, Human Computation
 
 **データアナリティクス，データマイニング，ビックデータ**
 
