@@ -18,7 +18,7 @@
 
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
-## 関心分野 Interest
+## 関心分野 Research Interests
 
 **最適化・数理計画問題、将来予測/要因把握、ヒューマンコンピュテーション**
 
@@ -27,11 +27,6 @@ Optimization, Forecasting Problem, Human Computation
 **データアナリティクス，ビックデータ**
 
 Data Analytics, Big Data
-
-**UI/UXデザイン，Webディベロップメント**
-
-UI/UX Design, Web Development
-
 
 ## スキル Skills
 
