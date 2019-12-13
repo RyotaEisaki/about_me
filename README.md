@@ -24,9 +24,9 @@
 
 Optimization, Forecasting Problem, Human Computation
 
-**データアナリティクス，データマイニング，ビックデータ**
+**データアナリティクス，ビックデータ**
 
-Data Analytics, Data Mining, Big Data
+Data Analytics, Big Data
 
 **UI/UXデザイン，Webディベロップメント**
 
