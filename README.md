@@ -22,7 +22,7 @@
 
 **最適化・数理計画問題、将来予測/要因把握、ヒューマンコンピュテーション**
 
-Optimization, Forecasting Problem, Human Computation
+Optimization, Forecasting Problem, and Human Computation
 
 **データアナリティクス，ビックデータ**
 
