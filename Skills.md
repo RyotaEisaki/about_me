@@ -2,8 +2,7 @@
 * Python
 * Java
 * JavaScript
-* HTML
-* CSS
+* HTML/CSS
 * C
 * C++
 * Ruby
@@ -13,6 +12,7 @@
 * Arduino
 * Processing
 * R
+* PHP
 * Ocaml
 * MATLAB
 * Scilab
