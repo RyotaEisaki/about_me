@@ -25,7 +25,7 @@
 * Lightroom
 * Illustlator
 * Premire Pro
-
+* Adobe XD
 
 # Others
 * Ubuntu
