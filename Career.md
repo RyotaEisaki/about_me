@@ -15,7 +15,7 @@
 
 
 ## 2020.2~
-Tech Kids School Mentor
+[Tech Kids School](https://techkidsschool.jp/) Mentor
 
 
 
