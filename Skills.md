@@ -24,7 +24,7 @@
 * Photoshop
 * Lightroom
 * Illustlator
-* Premire Pro
+* Premiere Pro
 * Adobe XD
 
 # Others
