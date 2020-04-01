@@ -23,7 +23,7 @@
 # Adobe Applications
 * Photoshop
 * Lightroom
-* Illustlator
+* Illustrator
 * Premiere Pro
 * Adobe XD
 
