@@ -24,9 +24,9 @@
 
 Optimization, Forecasting Problem, and Human Computation
 
-**データアナリティクス，ビックデータ**
+**データサイエンス，ビックデータ**
 
-Data Analytics, Big Data
+Data Science, Big Data
 
 ## スキル Skills
 
