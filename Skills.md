@@ -1,5 +1,4 @@
 # Programming Language
-## favorite
 * Python
 * Java
 * JavaScript
@@ -9,7 +8,7 @@
 * Ruby
 * Ruby on Rails
 * Swift
-
+* MySQL
 * Scala
 * Arduino
 * Processing
@@ -30,12 +29,18 @@
 * Adobe XD
 
 # Others
+* GitHub
 * Ubuntu
 * Linux
 * Microsoft Office
 * Twitter API
-* LaTex
+* AWS
+* Gurobi
 * TensorFlow
 * kaggle 
 * openGL
+* LaTex
+* Trello
+* Slack
+
 
