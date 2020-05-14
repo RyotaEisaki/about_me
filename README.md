@@ -30,7 +30,7 @@ Data Analytics, Big Data
 
 ## スキル Skills
 
-Programming Languages etc.
+Programming Languages, Softwares, frameworks and so on.
 
 -> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
