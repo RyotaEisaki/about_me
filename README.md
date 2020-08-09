@@ -37,6 +37,5 @@ Programming Languages, Softwares, frameworks and so on.
 ## 外部リンク Links
 + [Facebook](https://www.facebook.com/ryotaeisaki)
 + [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
-+ [Instagram](https://www.instagram.com/___r_____e________/?hl=ja)
-+ [Ameba Ownd](https://ryotaeisaki.amebaownd.com/)
++ [Instagram](https://www.instagram.com/ryota_530_/?hl=ja)
 
