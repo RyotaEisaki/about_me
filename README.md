@@ -1,6 +1,16 @@
 # Resume
 
-### **永崎遼太  /  Ryota Eisaki**
+|key|value|
+|---|---|
+|Name|Ryota Eisaki / 永崎　遼太|
+|Twitter|[@ryota_530_](https://twitter.com/ryota_530_)|
+|Instagram|[@ryota_530_](https://instagram.com/ryota_530_)|
+|Blog|[note / @ryota_530_](https://note.com/ryota_530_)|
+|SpeakerDeck|[i35.267 - SpeakerDeck](https://speakerdeck.com/i35_267)|
+|Qiita|[@i35_267 - Qiita](https://qiita.com/i35_267)|
+|GitHub|[RyotaEisaki - GitHub](https://github.com/RyotaEisaki)|
+|Contact|i35.267.m@gmail.com|
+
 
 
 ## 経歴 Career
