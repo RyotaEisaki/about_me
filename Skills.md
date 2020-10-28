@@ -1,62 +1,62 @@
-# Programming Language
+## Skills
 
+- ### Programming Languages
 
-||**Relevant Technical Skills**||
-| :--------: | ----------: | :----------: |
 | **Language** |**# of Experience Years**|**Experiencec Level**|
-|           |||
-|  |||
-|  |||
-|  |||
-|  |||
-|  |||
-|  |||
-
-* Python
-* Java
-* JavaScript
-* HTML/CSS
-* C
-* C++
-* Ruby
-* Ruby on Rails
-* Swift
-* MySQL
-* Scala
-* Arduino
-* Processing
-* R
-* PHP
-* Ocaml
-* MATLAB
-* Scilab
-* Prolog
-* Verilog
+| :--------: | :----------: | :----------: |
+| Python| 3+ years |intermediate|
+| Java | 3+ years |intermediate|
+| C | 3+ years |intermediate|
+| C++ | 3+ years |intermediate|
+| Swift | 2+ years |intermediate|
+| MATLAB | 3+ years |intermediate|
+| R | 2+ years |intermediate|
+| MySQL | 1+ years |Novice|
+| HTML/CSS | 2+ years |intermediate|
+| JavaScript | 2+ years |intermediate|
+| Ruby/Ruby on Rails | 1+ years |intermediate|
+| Processing | 2+ years |Novice|
+| PHP | 1+ years |Novice|
 
 
-# Adobe Applications
-* Photoshop
-* Lightroom
-* Illustrator
-* Premiere Pro
-* After Effects
-* Auditon
-* Adobe XD
+others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
-# Others
-* GitHub
-* Ubuntu
-* Linux
-* Microsoft Office
-* Twitter API
-* AWS
-* Gurobi
-* TensorFlow
-* kaggle 
-* openGL
-* LaTex
-* Trello
-* Slack
+- ## Operating Systems
+    - Windows
+    - Linux (Ubuntu)
+    - Mac OS X
+
+- ## Database
+    - MySQL
+
+- ## Version Controlle
+    - Git
+
+
+- ## Adobe Applications
+
+| **Tool** |**# of Experience Years**|**Experiencec Level**|
+| :--------: | :----------: | :----------: |
+| Photoshop| 3+ years |intermediate|
+| Lightroom| 3+ years |intermediate|
+| Illustrator| 3+ years |intermediate|
+| Premiere Pro| 2+ years |intermediate|
+| After Effects| 2+ years |intermediate|
+| Auditon| 2+ years |intermediate|
+| Adobe XD| 1+ years |Novice|
+
+
+- ## Others
+    - Twitter API
+    - AWS
+    - Gurobi
+    - TensorFlow
+    - kaggle 
+    - openGL
+    - openCV
+    - LaTex
+    - Trello
+    - Slack
 
 
