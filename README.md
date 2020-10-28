@@ -7,13 +7,14 @@
 
 [Present]
 
+**Human Computation Laboratory**
+
+**Division of Computer Science,**
+**Undergraduate School of Informatics, University of Tsukuba**
+
 **筑波大学情報学群情報科学類**  
 
 **ヒューマンンコンピュテーション研究室**
-
-**University of Tsukuba**   College of Information Science
-
-**Human Computation Laboratory**
 
 
 -> [Experience](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
