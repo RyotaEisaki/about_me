@@ -3,9 +3,9 @@
 ## Ryota Eisaki / 永崎遼太
 
 
-## Career
+## 
 
-[現在  /  Present]
+[Present]
 
 **筑波大学情報学群情報科学類**  
 
@@ -16,7 +16,7 @@
 **Human Computation Laboratory**
 
 
--> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+-> [Experience](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 ## Research Interests
 
