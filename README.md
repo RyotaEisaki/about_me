@@ -1,19 +1,9 @@
-# Resume
+# About Me
 
-|key|value|
-|---|---|
-|Name|Ryota Eisaki / 永崎　遼太|
-|Twitter|[@ryota_530_](https://twitter.com/ryota_530_)|
-|Instagram|[@ryota_530_](https://instagram.com/ryota_530_)|
-|Blog|[note / @ryota_530_](https://note.com/ryota_530_)|
-|YouTube|[Ryota Vlog](https://www.youtube.com/channel/UCAbf8-EJUk3bHY8xz-b09TA)|
-|Podcast|[OpenSource.FM](https://podcasts.apple.com/jp/podcast/opensource-fm/id1531373259)|
-|GitHub|[RyotaEisaki - GitHub](https://github.com/RyotaEisaki)|
-|Contact|eisakiryota0530@gmail.com|
+Name: Ryota Eisaki
 
 
-
-## 経歴 Career
+## Career
 
 [現在  /  Present]
 
@@ -26,9 +16,9 @@
 **Human Computation Laboratory**
 
 
--> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+-> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
-## 関心分野 Research Interests
+## Research Interests
 
 **最適化・数理計画問題、将来予測/要因把握、ヒューマンコンピュテーション**
 
@@ -38,14 +28,17 @@ Optimization, Forecasting Problem, and Human Computation
 
 Data Science, Big Data
 
-## スキル Skills
+## Skills
 
-Programming Languages, Softwares, frameworks and so on.
-
--> [詳細  /  Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+-> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ## 外部リンク Links
-+ [Facebook](https://www.facebook.com/ryotaeisaki)
-+ [Twitter](https://twitter.com/eisaki_ryota?prefetchTimestamp=1571484504357)
-+ [Instagram](https://www.instagram.com/ryota_530_/?hl=ja)
+|Facebook|[Ryota Eisaki](https://www.facebook.com/ryotaeisaki)
+|Twitter|[@ryota_530_](https://twitter.com/ryota_530_)|
+|Instagram|[@ryota_530_](https://instagram.com/ryota_530_)|
+|Blog|[note / @ryota_530_](https://note.com/ryota_530_)|
+|YouTube|[Ryota Vlog](https://www.youtube.com/channel/UCAbf8-EJUk3bHY8xz-b09TA)|
+|Podcast|[OpenSource.FM](https://podcasts.apple.com/jp/podcast/opensource-fm/id1531373259)|
+|GitHub|[RyotaEisaki - GitHub](https://github.com/RyotaEisaki)|
+|Contact|eisakiryota0530@gmail.com|
 
