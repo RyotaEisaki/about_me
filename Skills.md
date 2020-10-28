@@ -44,7 +44,8 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 | Premiere Pro| 2+ years |intermediate|
 | After Effects| 2+ years |intermediate|
 | Auditon| 2+ years |intermediate|
-| Adobe XD| 1+ years |Novice|
+| XD| 1+ years |Novice|
+| InDesign| 1+ years |Novice|
 
 
 - ## Others
