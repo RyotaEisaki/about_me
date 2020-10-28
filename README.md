@@ -7,7 +7,7 @@
 
 [Present]
 
-**Human Computation Laboratory**
+[**Human Computation Laboratory**](https://hcomp.cs.tsukuba.ac.jp)
 
 **Division of Computer Science,**
 **Undergraduate School of Informatics, University of Tsukuba**
