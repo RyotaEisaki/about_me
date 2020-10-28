@@ -13,8 +13,8 @@
 
 **ヒューマンンコンピュテーション研究室**
 
-
----> [Experience](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+## Experience
+---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 ## Research Interests
 
