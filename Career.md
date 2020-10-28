@@ -1,4 +1,4 @@
-# [現在 / Present]
+## [Present]
 
 ### **筑波大学情報学群情報科学類**  
 
@@ -11,7 +11,7 @@
 　　
   　　
     
-# [経歴 / Experience]
+## Experience
 
 
 ## 2020.2~
