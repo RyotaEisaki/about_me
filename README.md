@@ -2,8 +2,7 @@
 
 ## Ryota Eisaki / 永崎遼太
 
-
-![FDB898BA-92C8-44E1-BE0A-1965F4C49171](https://user-images.githubusercontent.com/39875637/97383894-f75ae600-1911-11eb-852e-b3016eb7349a.jpeg)
+<img width="127" alt="aboutme" src="(https://user-images.githubusercontent.com/39875637/97383894-f75ae600-1911-11eb-852e-b3016eb7349a.jpeg">
 
 ## Belonging
 
