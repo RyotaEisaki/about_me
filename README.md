@@ -7,7 +7,7 @@
 |Instagram|[@ryota_530_](https://instagram.com/ryota_530_)|
 |Blog|[note / @ryota_530_](https://note.com/ryota_530_)|
 |YouTube|[Ryota Vlog](https://www.youtube.com/channel/UCAbf8-EJUk3bHY8xz-b09TA)|
-|Qiita|[@i35_267 - Qiita](https://qiita.com/i35_267)|
+|Podcast|[OpenSource.FM](https://podcasts.apple.com/jp/podcast/opensource-fm/id1531373259)|
 |GitHub|[RyotaEisaki - GitHub](https://github.com/RyotaEisaki)|
 |Contact|eisakiryota0530@gmail.com|
 
