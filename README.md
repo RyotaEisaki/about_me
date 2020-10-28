@@ -1,6 +1,6 @@
 # About Me
 
-Name: Ryota Eisaki
+## Ryota Eisaki / 永崎遼太
 
 
 ## Career
