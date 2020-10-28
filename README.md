@@ -17,7 +17,7 @@
 **ヒューマンンコンピュテーション研究室**
 
 
--> [Experience](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+---> [Experience](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 ## Research Interests
 
@@ -31,7 +31,7 @@ Data Science, Big Data
 
 ## Skills
 
--> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
 ## 外部リンク Links
 |key|value|
