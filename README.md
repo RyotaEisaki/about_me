@@ -2,8 +2,7 @@
 
 ## Ryota Eisaki / 永崎遼太
 
-
-## 
+## Belonging
 
 [**Human Computation Laboratory**](https://hcomp.cs.tsukuba.ac.jp)
 
@@ -21,7 +20,7 @@
 
 - Big Data / Data Mining
 - Artificial Intelligence 
-- O
+- Optimization
 
 ## Skills
 
