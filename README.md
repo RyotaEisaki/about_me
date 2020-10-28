@@ -1,4 +1,4 @@
-## Resume
+# Resume
 
 ### **永崎遼太  /  Ryota Eisaki**
 
