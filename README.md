@@ -5,11 +5,9 @@
 
 ## 
 
-[Present]
-
 [**Human Computation Laboratory**](https://hcomp.cs.tsukuba.ac.jp)
 
-**Division of Computer Science,**
+**College of Computer Science,**
 **Undergraduate School of Informatics, University of Tsukuba**
 
 **筑波大学情報学群情報科学類**  
@@ -21,13 +19,9 @@
 
 ## Research Interests
 
-**最適化・数理計画問題、将来予測/要因把握、ヒューマンコンピュテーション**
-
-Optimization, Forecasting Problem, and Human Computation
-
-**データサイエンス，ビックデータ**
-
-Data Science, Big Data
+- Big Data / Data Mining
+- Artificial Intelligence 
+- O
 
 ## Skills
 
