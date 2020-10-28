@@ -26,7 +26,10 @@
 * Lightroom
 * Illustrator
 * Premiere Pro
+* After Effects
+* Auditon
 * Adobe XD
+
 
 # Others
 * GitHub
