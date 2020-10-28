@@ -1,17 +1,4 @@
-## [Present]
-
-### **筑波大学情報学群情報科学類**  
-
-### **ヒューマンンコンピュテーション研究室**
-
-### **University of Tsukuba**   , College of Information Science
-
-### **Human Computation Laboratory**
-
-　　
-  　　
-    
-## Experience
+# Experience
 
 
 ## 2020.2~
