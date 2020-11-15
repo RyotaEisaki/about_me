@@ -29,7 +29,7 @@ Participated in the　Special Exercise in Information Science.
 ## 2019.3.3~2019.3.24
 ワシントン大学にて短期留学．
 
-Study at the University of Washington (Winter STEP 2019, Language and Culture)
+Study at the University of Washington ([Winter STEP 2019, Language and Culture](https://www.ielp.uw.edu/programs/short-programs/language-culture-step/overview/)
 
 ## 2018.12.4~2018.12.7
 国際学会「SIGGRAPH ASIA 2018」学生ボランティア
