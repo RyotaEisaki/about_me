@@ -10,8 +10,8 @@ at home
 
 [**Human Computation Laboratory**](https://hcomp.cs.tsukuba.ac.jp)
 
-[**College of Computer Science,**](https://www.coins.tsukuba.ac.jp/en/)
-**Undergraduate School of Informatics, University of Tsukuba**
+[**College of Computer Science, Undergraduate School of Informatics, University of Tsukuba**
+](https://www.coins.tsukuba.ac.jp/en/)
 
 **筑波大学情報学群情報科学類**  
 
