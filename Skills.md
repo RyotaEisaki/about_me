@@ -57,6 +57,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - openGL
     - openCV
     - LaTex
+    - GitKraken
     - Trello
     - Slack
 
