@@ -49,6 +49,10 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
 - ## Others
+    - Visual Studio Code
+    - Sublime Text
+    - Emacs
+    - Unity
     - Twitter API
     - AWS
     - Gurobi
