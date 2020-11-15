@@ -1,17 +1,28 @@
 # Experience
 
+## 2020.10~
+ソフトウェアサイエンス主専攻実験「[Web文書分類](http://www.mibel.cs.tsukuba.ac.jp/~inui/kougi/jikken/index.html)」
+
+Software Science Laboratory II, Theme: "Document Classification"
+
+## 2020.4~2020.8
+ソフトウェアサイエンス主専攻実験「[数理最適化：基礎と応用](http://www.u.tsukuba.ac.jp/~sano.yoshio.fn/lecture/iml/index.html)」
+
+Software Science Laboratory I, Theme: "Mathematical Optimization: Theory and Applications"
 
 ## 2020.2~
 [Tech Kids School](https://techkidsschool.jp/) Mentor
 
 
-
 ## 2019.9.28~2019.9.29
 [J-WAVE INNOVATION WORLD FESTA 2019](https://www.j-wave.co.jp/iwf2019/?fbclid=IwAR1apCbJjiKNCRm5xPmuc-zPZZLYPZ9It9Y0YA7I_pH4CegLQHbI59xlEXc) 運営スタッフ
+
 ## 2019.5~
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2019」に参加．[ヒューマンコンピュテーション研究室](http://hcomp.cs.tsukuba.ac.jp)にて研究協力．
+情報特別演習に参加。
 
 Participated in the "ARE(Advancing Researcher Experience) 2019 program" as a collabarate student at Human Computation Labratory.
+Participated in the　Special Exercise in Information Science.
 
 ## 2019.3.3~2019.3.24
 ワシントン大学にて短期留学．
