@@ -3,7 +3,6 @@
 ## Ryota Eisaki / 永崎遼太
 
 <img width="127" alt="aboutme" src="https://user-images.githubusercontent.com/39875637/97383894-f75ae600-1911-11eb-852e-b3016eb7349a.jpeg">
-at home
 
 
 ## Belonging
