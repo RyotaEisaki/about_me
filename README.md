@@ -7,7 +7,7 @@
 
 ## Belonging
 
-[** Knowledge and Data Engineering Laboratory**](http://kde.cs.tsukuba.ac.jp/)
+[**Knowledge and Data Engineering Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
 [**College of Computer Science, Undergraduate School of Informatics, University of Tsukuba**
 ](https://www.coins.tsukuba.ac.jp/en/)
