@@ -14,7 +14,7 @@
 
 **筑波大学情報学群情報科学類**  
 
-** 北川データ工学研究室 **
+**北川データ工学研究室**
 
 ## Experience
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
