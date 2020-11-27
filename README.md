@@ -7,14 +7,14 @@
 
 ## Belonging
 
-[**Human Computation Laboratory**](https://hcomp.cs.tsukuba.ac.jp)
+[** Knowledge and Data Engineering Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
 [**College of Computer Science, Undergraduate School of Informatics, University of Tsukuba**
 ](https://www.coins.tsukuba.ac.jp/en/)
 
 **筑波大学情報学群情報科学類**  
 
-**ヒューマンンコンピュテーション研究室**
+** 北川データ工学研究室 **
 
 ## Experience
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
