@@ -52,9 +52,9 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - Visual Studio Code
     - Sublime Text
     - Emacs
+    - Atom
     - Unity
     - Twitter API
-    - AWS
     - Gurobi
     - TensorFlow
     - kaggle 
