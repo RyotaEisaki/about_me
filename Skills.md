@@ -14,7 +14,7 @@
 | MySQL | 1+ years |Novice|
 | HTML/CSS | 2+ years |intermediate|
 | JavaScript | 2+ years |intermediate|
-| Ruby/Ruby on Rails | 1+ years |Novice|
+| Ruby| 1+ years |Novice|
 | Processing | 2+ years |Novice|
 | PHP | 1+ years |Novice|
 
