@@ -22,6 +22,7 @@
 ## Research Interests
 
 - Big Data / Data Mining
+- NLP 
 - Artificial Intelligence 
 - Optimization
 
