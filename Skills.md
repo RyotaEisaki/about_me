@@ -6,8 +6,8 @@
 | :--------: | :----------: | :----------: |
 | Python| 4+ years |intermediate|
 | Java | 4+ years |intermediate|
-| C | 3+ years |intermediate|
-| C++ | 3+ years |intermediate|
+| C | 4+ years |intermediate|
+| C++ | 4+ years |intermediate|
 | Swift | 2+ years |intermediate|
 | MATLAB | 3+ years |intermediate|
 | R | 2+ years |intermediate|
