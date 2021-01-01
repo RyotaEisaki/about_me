@@ -4,8 +4,8 @@
 
 | **Language** |**# of Experience Years**|**Experiencec Level**|
 | :--------: | :----------: | :----------: |
-| Python| 3+ years |intermediate|
-| Java | 3+ years |intermediate|
+| Python| 4+ years |intermediate|
+| Java | 4+ years |intermediate|
 | C | 3+ years |intermediate|
 | C++ | 3+ years |intermediate|
 | Swift | 2+ years |intermediate|
