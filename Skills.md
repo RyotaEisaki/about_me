@@ -23,9 +23,9 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
 - ## Operating Systems
+    - Mac OS X
     - Windows
     - Linux (Ubuntu)
-    - Mac OS X
 
 - ## Database
     - MySQL
