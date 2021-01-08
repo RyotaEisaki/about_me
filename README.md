@@ -36,6 +36,7 @@
 |Facebook|[Ryota Eisaki](https://www.facebook.com/ryotaeisaki)|
 |LinkedIn|[Ryota Eisaki](https://www.linkedin.com/in/eisakiryota)|
 |Twitter|[@eiskry](https://twitter.com/ryota_530_)|
+|Blog|[My Blog Site](https://rethink-multimedia.com)|
 |Qiita|[@eiskry](https://qiita.com/ryota_530_)|
 |Contact|eisakiryota0530@gmail.com|
 
