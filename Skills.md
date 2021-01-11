@@ -23,7 +23,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
 - ## Operating Systems
-    - Mac OS X
+    - macOS
     - Windows
     - Linux (Ubuntu)
 
