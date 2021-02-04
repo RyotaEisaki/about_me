@@ -5,7 +5,7 @@
 
 [KDE (Kitagawa & Amagasa Data Engineering) LAB](http://kde.cs.tsukuba.ac.jp/index_en.html)
 
-## 2020.10~20201.2
+## 2020.10~2021.2
 ソフトウェアサイエンス主専攻実験「[Web文書分類](http://www.mibel.cs.tsukuba.ac.jp/~inui/kougi/jikken/index.html)」
 
 Software Science Laboratory II, Theme: "Document Classification"
