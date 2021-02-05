@@ -22,7 +22,7 @@ Software Science Laboratory I, Theme: "Mathematical Optimization: Theory and App
 ## 2019.9.28~2019.9.29
 [J-WAVE INNOVATION WORLD FESTA 2019](https://www.j-wave.co.jp/iwf2019/?fbclid=IwAR1apCbJjiKNCRm5xPmuc-zPZZLYPZ9It9Y0YA7I_pH4CegLQHbI59xlEXc) Event Management
 
-## 2019.5~
+## 2019.5~2020.3
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2019」に参加．[ヒューマンコンピュテーション研究室](http://hcomp.cs.tsukuba.ac.jp)にて研究協力．
 
 情報特別演習に参加。
@@ -53,7 +53,7 @@ Student Volunteer at the 11th ACM SIGGRAHP Conference and Exhibition on Computer
 ## 2018.7.31
 [落合陽一・小泉進次郎共同企画　第一回 平成最後の夏期講習(社会科編)](https://www.youtube.com/watch?v=fV37SGxMqZs&feature=youtu.be&fbclid=IwAR0O6CPjGnk0t5fFZ--iPoqPXFRrGn7oVd_1H9BuNzGlrwVim2mFxzl6LZQ) 運営スタッフ
 
-## 2018.5~
+## 2018.5~2019.3
 先導的研究者体験プログラム「ARE(Advancing Researcher Experience) 2018」に参加．[Digital Nature Group](https://digitalnature.slis.tsukuba.ac.jp)にて共同研究．
 
 Participated in the "ARE(Advancing Researcher Experience) 2018 program" as a collabarate student at Digital Nature Group.
