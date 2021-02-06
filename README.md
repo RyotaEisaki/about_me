@@ -38,6 +38,6 @@
 |Twitter|[@eiskry](https://twitter.com/eiskry)|
 |Clubhouse|@eiskry|
 |Blog|[Click Here](https://rethink-multimedia.com)|
-|Qiita|[@eiskry](https://qiita.com/ryota_530_)|
+|Qiita|[@eiskry](https://qiita.com/eiskry)|
 |Contact|eisakiryota0530@gmail.com|
 
