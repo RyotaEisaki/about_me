@@ -16,8 +16,10 @@
 
 **北川データ工学研究室**
 
+
 ## Experience
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
+
 
 ## Research Interests
 
@@ -26,9 +28,11 @@
 - Artificial Intelligence 
 - Optimization
 
+
 ## Skills
 
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+
 
 ## 外部リンク Links
 |key|value|
