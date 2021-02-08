@@ -2,7 +2,7 @@
 
 - ### Programming Languages
 
-| **Language** |**# of Experience Years**|**Experiences Level**|
+| **Language** |**# of Experience Years**|**Experience Level**|
 | :--------: | :----------: | :----------: |
 | Python| 4+ years |intermediate|
 | Java | 4+ years |intermediate|
