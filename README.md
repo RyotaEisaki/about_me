@@ -43,5 +43,5 @@
 |Clubhouse|@eiskry|
 |Blog|[Click Here](https://rethink-multimedia.com)|
 |Qiita|[@eiskry](https://qiita.com/eiskry)|
-|Contact|eisakiryota0530@gmail.com|
+|Contact| x@gmail.com where x is eisakiryota0530|
 
