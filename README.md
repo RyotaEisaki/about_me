@@ -7,15 +7,18 @@
 
 ## Belonging
 
+**筑波大学情報学群情報科学類**  
+
 [**Department of Information Science, Faculty of Informatics, University of Tsukuba**
 ](https://www.coins.tsukuba.ac.jp/en/)
+
+**北川データ工学研究室**
 
 [**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
 
-**筑波大学情報学群情報科学類**  
 
-**北川データ工学研究室**
+
 
 
 ## Experience
