@@ -28,7 +28,7 @@
 - Optimization
 
 
-## Skills
+## Skill
 
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
 
