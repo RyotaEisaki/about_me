@@ -25,7 +25,6 @@
 
 - Time-Series Data Analysis
 - Natural Language Processing 
-- Artificial Intelligence 
 - Optimization
 
 
