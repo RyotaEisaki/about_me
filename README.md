@@ -43,7 +43,6 @@
 |Facebook|[Ryota Eisaki](https://www.facebook.com/ryotaeisaki)|
 |LinkedIn|[Ryota Eisaki](https://www.linkedin.com/in/eisakiryota)|
 |Twitter|[@eiskry](https://twitter.com/eiskry)|
-|Clubhouse|@eiskry|
 |Blog|[Click Here](https://rethink-multimedia.com)|
 |Qiita|[@eiskry](https://qiita.com/eiskry)|
 |Contact| x@gmail.com where x is eisakiryota0530|
