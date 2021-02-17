@@ -64,5 +64,6 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - GitKraken
     - Trello
     - Slack
+    - Notion
 
 
