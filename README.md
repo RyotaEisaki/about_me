@@ -18,6 +18,11 @@
 
 
 
+## Research Interests
+
+- Time-Series Data Analysis
+- Natural Language Processing 
+- Optimization
 
 
 
@@ -25,11 +30,6 @@
 ---> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
 
 
-## Research Interests
-
-- Time-Series Data Analysis
-- Natural Language Processing 
-- Optimization
 
 
 ## Skill
