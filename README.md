@@ -12,7 +12,7 @@
 [**Department of Information Science, Faculty of Informatics, University of Tsukuba**
 ](https://www.coins.tsukuba.ac.jp/en/)
 
-**北川データ工学研究室**
+**北川・天笠データ工学研究室**
 
 [**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
