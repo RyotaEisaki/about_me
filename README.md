@@ -5,7 +5,7 @@
 <img width="127" alt="aboutme" src="https://user-images.githubusercontent.com/39875637/97383894-f75ae600-1911-11eb-852e-b3016eb7349a.jpeg">
 
 
-## Belonging
+## Present
 
 **筑波大学情報学群情報科学類**  
 
