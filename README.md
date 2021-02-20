@@ -18,7 +18,7 @@
 
 **stand.fm インターンシップ**
 
-[stand.fm](https://stand.fm) Machine Learning Engineer Internship
+[stand.fm](https://corp.stand.fm) Machine Learning Engineer Internship
 
 ## Research Interests
 
