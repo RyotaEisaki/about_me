@@ -1,5 +1,8 @@
 # Experience
 
+## 2021.3~
+stand.fm Machine Learning Engineer Internship
+
 ## 2020.12~
 北川・天笠データ工学研究室
 
