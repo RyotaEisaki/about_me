@@ -7,9 +7,9 @@
 
 ## Present
 
-**筑波大学情報学群情報科学類**  
+**筑波大学情報学群情報科学類3年**  
 
-[**Department of Information Science, Faculty of Informatics, University of Tsukuba**
+[**Department of Information Science, Faculty of Informatics, University of Tsukuba B3**
 ](https://www.coins.tsukuba.ac.jp/en/)
 
 **北川・天笠データ工学研究室**
