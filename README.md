@@ -16,7 +16,8 @@
 
 [**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
-
+**stand.fm Internship**
+Machine Learning Internship
 
 ## Research Interests
 
