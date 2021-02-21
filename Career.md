@@ -6,7 +6,7 @@
 ## 2020.12~
 北川・天笠データ工学研究室
 
-[KDE (Kitagawa & Amagasa Data Engineering) LAB](http://kde.cs.tsukuba.ac.jp/index_en.html)
+[KDE (Kitagawa & Amagasa Data Engineering) LAB](http://kde.cs.tsukuba.ac.jp/index.html)
 
 ## 2020.10~2021.2
 ソフトウェアサイエンス主専攻実験「[Web文書分類](http://www.mibel.cs.tsukuba.ac.jp/~inui/kougi/jikken/index.html)」
