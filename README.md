@@ -24,7 +24,7 @@
 
 - Time-Series Data Analysis
 - Natural Language Processing 
-- Optimization
+- Optimization Problem
 
 
 
