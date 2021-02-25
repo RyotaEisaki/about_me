@@ -20,7 +20,7 @@ Software Science Laboratory II, Theme: "Document Classification"
 
 Software Science Laboratory I, Theme: "Mathematical Optimization: Theory and Applications"
 
-## 2020.2~
+## 2020.2~2021.3
 [Tech Kids School](https://techkidsschool.jp/) iOS Development Mentor
 
 
