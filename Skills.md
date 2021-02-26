@@ -53,7 +53,9 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - Sublime Text
     - Emacs
     - Atom
-    - Unity
+    - Xcode
+    - Eclipse
+    - Rstudio
     - Twitter API
     - Gurobi
     - TensorFlow
