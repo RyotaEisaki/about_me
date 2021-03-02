@@ -1,7 +1,7 @@
 # Experience
 
 ## 2021.3~
-stand.fm 機械学習エンジニアインターンシップ
+stand.fm データサイエンティストインターンシップ
 
 [stand.fm](https://corp.stand.fm) [Machine Learning Engineer Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
