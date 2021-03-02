@@ -3,7 +3,7 @@
 ## 2021.3~
 stand.fm データサイエンティストインターンシップ
 
-[stand.fm](https://corp.stand.fm) [Machine Learning Engineer Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
+[stand.fm](https://corp.stand.fm) [Data Scientist Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
 ## 2020.12~
 北川・天笠データ工学研究室
