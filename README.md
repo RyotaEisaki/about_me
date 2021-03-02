@@ -16,9 +16,9 @@
 
 [**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
-**stand.fm 機械学習エンジニアインターンシップ**
+**stand.fm データサイエンティストインターンシップ**
 
-[stand.fm](https://corp.stand.fm) [Machine Learning Engineer Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
+[stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
 ## Research Interests
 
