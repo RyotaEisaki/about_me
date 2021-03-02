@@ -16,7 +16,7 @@
 
 [**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
 
-**stand.fm データサイエンティストインターンシップ**
+**stand.fm インターンシップ**
 
 [stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
