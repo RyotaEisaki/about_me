@@ -50,7 +50,8 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
 - ## Others
-    - Google Cloud Platfrom  
+    - Google Cloud Platfrom
+    - Google Analytics  
     - Visual Studio Code
     - Sublime Text
     - Emacs
