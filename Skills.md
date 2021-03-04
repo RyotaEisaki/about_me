@@ -29,6 +29,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 - ## Database
     - MySQL
+    - BigQuery
 
 - ## Version Controlle
     - Git
@@ -49,6 +50,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 
 
 - ## Others
+    - Google Cloud Platfrom  
     - Visual Studio Code
     - Sublime Text
     - Emacs
@@ -67,5 +69,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - Trello
     - Slack
     - Notion
+    - esa
+    - redash
 
 
