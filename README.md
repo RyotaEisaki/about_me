@@ -18,9 +18,7 @@
 
 **stand.fm インターンシップ**
 
-[stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
-
-メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
+[stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw) メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
 
 ## Research Interests
 
