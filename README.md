@@ -14,7 +14,7 @@
 
 **北川・天笠データ工学研究室**
 
-[**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)
+[**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 指導教官：[早瀬 康裕](http://www.kde.cs.tsukuba.ac.jp/~hayase/index.html)_
 
 **stand.fm インターンシップ**
 
