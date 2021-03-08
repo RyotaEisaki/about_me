@@ -12,13 +12,13 @@
 [**Department of Information Science, Faculty of Informatics, University of Tsukuba B3**
 ](https://www.coins.tsukuba.ac.jp)
 
-**北川・天笠データ工学研究室**
+**北川・天笠データ工学研究室**  指導教官：[早瀬 康裕](http://www.kde.cs.tsukuba.ac.jp/~hayase/index.html)
 
-[**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/)  指導教官：[早瀬 康裕](http://www.kde.cs.tsukuba.ac.jp/~hayase/index.html)
+[**KDE (Kitagawa and Amagasaki Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
 
-**stand.fm インターンシップ**
+**stand.fm インターンシップ** メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
 
-[stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
+[stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　
 
 ## Research Interests
 
