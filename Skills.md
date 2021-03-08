@@ -28,8 +28,8 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - Linux (Ubuntu)
 
 - ## Database
-    - MySQL
     - BigQuery
+    - PostgreSQL
 
 - ## Version Controlle
     - Git
