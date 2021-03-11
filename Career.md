@@ -1,13 +1,15 @@
 # Experience
 
 ## 2021.3~
-stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
+stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma]
+
+(https://twitter.com/hidakazuma)
 
 
 [stand.fm](https://corp.stand.fm) [Data Scientist Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
 ## 2020.12~
-北川・天笠データ工学研究室
+北川・天笠データ工学研究室 指導教官：[早瀬 康裕](http://www.kde.cs.tsukuba.ac.jp/~hayase/index.html)
 
 [KDE (Kitagawa & Amagasa Data Engineering) LAB](http://kde.cs.tsukuba.ac.jp/index.html)
 
