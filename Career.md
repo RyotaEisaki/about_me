@@ -1,10 +1,7 @@
 # Experience
 
 ## 2021.3~
-stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma]
-
-(https://twitter.com/hidakazuma)
-
+stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
 
 [stand.fm](https://corp.stand.fm) [Data Scientist Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
