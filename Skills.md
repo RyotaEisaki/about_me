@@ -52,25 +52,26 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
 - ## Others
     - Google Cloud Platfrom
     - Google Analytics  
+    - esa
+    - redash
+    - Slack
+    - Notion
+    - kaggle     
     - Visual Studio Code
-    - Sublime Text
+    - GitKraken
+    - Rstudio
+    - Gurobi
+    - TensorFlow
     - Emacs
+    - Sublime Text
+    - LaTex
     - Atom
     - Xcode
     - Eclipse
-    - Rstudio
     - Twitter API
-    - Gurobi
-    - TensorFlow
-    - kaggle 
     - openGL
     - openCV
-    - LaTex
-    - GitKraken
     - Trello
-    - Slack
-    - Notion
-    - esa
-    - redash
+    
 
 
