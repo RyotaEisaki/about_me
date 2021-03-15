@@ -25,10 +25,13 @@
 ## Research Interests
 
 - 時系列データ分析　
+  
   Time-Series Data Analysis
 - 自然言語処理　
+  
   Natural Language Processing 
 - 最適化問題　
+  
   Optimization Problem
 
 
