@@ -3,6 +3,8 @@
 ## 2021.3.20~2021.3.21
 [初めてのハッカソン オンライン開発合宿vol.1](https://talent.supporterz.jp/events/337ce715-9813-41d4-a995-e3504dc8e719/) 努力賞受賞 (同率2位)
 
+[プロジェクトスライド](https://docs.google.com/presentation/d/1Q1Cl6d2ZDm0-_MmOnjn0BzZZG4a6ysyN17_dZAvXDrk/edit#slide=id.p)
+
 ## 2021.3~
 stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
 
