@@ -31,7 +31,7 @@ others: Arduino, Ocaml, Scilab, Prolog, Verilog
     - BigQuery
     - PostgreSQL
 
-- ## Version Controlle
+- ## Version Control
     - Git
 
 
