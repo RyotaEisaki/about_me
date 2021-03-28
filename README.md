@@ -1,5 +1,7 @@
 # About Me
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feiskry%2FAbout_Me&count_bg=%233CD1C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Ryota Eisaki
 
 <img width="127" alt="aboutme" src="https://user-images.githubusercontent.com/39875637/97383894-f75ae600-1911-11eb-852e-b3016eb7349a.jpeg">
