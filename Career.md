@@ -6,7 +6,7 @@
 [プロジェクトスライド](https://docs.google.com/presentation/d/1Q1Cl6d2ZDm0-_MmOnjn0BzZZG4a6ysyN17_dZAvXDrk/edit#slide=id.p)
 
 ## 2021.3~
-stand.fm データサイエンティストインターンシップ　メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
+stand.fm データサイエンティストインターンシップ　メンター：[@hidakazuma](https://twitter.com/hidakazuma)
 
 [stand.fm](https://corp.stand.fm) [Data Scientist Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)
 
