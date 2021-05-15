@@ -28,7 +28,7 @@
 
 - ソフトウェアエンジニアリング　Software Engineering
 - 自然言語処理　Natural Language Processing 
-- データマイニング Data Mining
+- データマイニング　Data Mining
 
 [Details](https://www.notion.so/Portfolio-55489ab791454fe8bfdaac7442c95e9c)
 
