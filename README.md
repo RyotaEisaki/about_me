@@ -26,7 +26,7 @@
 
 ## Research Interests
 
-- ソフトウェアエンジニアリング Software Engineering
+- ソフトウェアエンジニアリング　Software Engineering
 - 自然言語処理　Natural Language Processing 
 - データマイニング Data Mining
 
