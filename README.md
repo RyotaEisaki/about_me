@@ -20,7 +20,7 @@
   [**KDE (Knowledge and Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
 
 - **stand.fm インターンシップ**  
-メンター（師匠）：[@hidakazuma](https://twitter.com/hidakazuma)
+メンター：[@hidakazuma](https://twitter.com/hidakazuma)
 
   [stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　
 
@@ -30,17 +30,7 @@
 - 自然言語処理　Natural Language Processing 
 - 最適化問題　Optimization Problem
 
-
-
-## Experience
----> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Career.md)
-
-
-
-
-## Skill
-
----> [Details](https://github.com/RyotaEisaki/about_me/blob/master/Skills.md)
+[Details](https://www.notion.so/Portfolio-55489ab791454fe8bfdaac7442c95e9c)
 
 
 ## 外部リンク Links
