@@ -26,9 +26,9 @@
 
 ## Research Interests
 
-- 時系列データ分析　Time-Series Data Analysis
+- ソフトウェアエンジニアリング Software Engineering
 - 自然言語処理　Natural Language Processing 
-- 最適化問題　Optimization Problem
+- データマイニング Data Mining
 
 [Details](https://www.notion.so/Portfolio-55489ab791454fe8bfdaac7442c95e9c)
 
