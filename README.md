@@ -1,6 +1,6 @@
 # About Me
 
-[](https://eiskry.github.io/)
+[github.io](https://eiskry.github.io/)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feiskry%2FAbout_Me&count_bg=%233CD1C4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -17,14 +17,11 @@
 ](https://www.coins.tsukuba.ac.jp)
 
 - **知識・データ工学研究室**  
-指導教官：[早瀬 康裕](http://www.kde.cs.tsukuba.ac.jp/~hayase/index.html)
 
   [**KDE (Knowledge and Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
 
-<!-- - **stand.fm インターンシップ**  
-メンター：[@hidakazuma](https://twitter.com/hidakazuma)
 
-  [stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　 -->
+
 
 ## Research Interests
 
