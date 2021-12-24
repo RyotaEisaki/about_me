@@ -21,10 +21,10 @@
 
   [**KDE (Knowledge and Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
 
-- **stand.fm インターンシップ**  
+<!-- - **stand.fm インターンシップ**  
 メンター：[@hidakazuma](https://twitter.com/hidakazuma)
 
-  [stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　
+  [stand.fm](https://corp.stand.fm) [ Internship](https://herp.careers/v1/standfm/BraKuoBEMzlw)　 -->
 
 ## Research Interests
 
