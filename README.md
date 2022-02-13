@@ -18,7 +18,7 @@
 
 - **知識・データ工学研究室**  
 
-  [**KDE (Knowledge and Data Engineering) Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
+  [**Knowledge and Data Engineering Laboratory**](http://kde.cs.tsukuba.ac.jp/) 
 
 
 
